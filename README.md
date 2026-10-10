@@ -1,6 +1,6 @@
-# HisabFlow
+# MoneyTrack
 
-HisabFlow is a mobile-first business workflow for home-based sellers in Bangladesh. This repository starts with the core business foundation: secure authentication, business-scoped data, product/customer management, and order dashboard APIs.
+MoneyTrack is a mobile-first business workflow for home-based sellers in Bangladesh. This repository starts with the core business foundation: secure authentication, business-scoped data, product/customer management, and order dashboard APIs.
 
 ## Stack
 

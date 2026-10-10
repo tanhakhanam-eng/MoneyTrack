@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HisabFlow",
+  title: "MoneyTrack",
   description: "Home-based business profit dashboard for Bangladesh sellers",
 };
 

@@ -1,7 +1,7 @@
 [project]
 name = "hisabflow-backend"
 version = "0.1.0"
-description = "HisabFlow backend API"
+description = "MoneyTrack backend API"
 requires-python = ">=3.11"
 dependencies = [
   "fastapi>=0.115.0",

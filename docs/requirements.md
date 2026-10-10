@@ -1,6 +1,6 @@
 # Requirements summary
 
-HisabFlow focuses on the order-to-profit workflow for home-based sellers in Bangladesh. The MVP prioritizes:
+MoneyTrack focuses on the order-to-profit workflow for home-based sellers in Bangladesh. The MVP prioritizes:
 
 - secure user and business registration
 - product and customer management
