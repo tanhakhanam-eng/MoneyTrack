@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+
+# FastAPI / Alembic
+*.db
+*.sqlite3
+alembic/versions/*.pyc
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+frontend/npm-debug.log*
+
+# OS/editor
+.DS_Store
+.vscode/
